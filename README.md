@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Jagriti Aswal
+
+B.Tech CSE Student at NIT Kurukshetra
+Full Stack & Backend Developer | ML Enthusiast
+
+🌍 Portfolio: https://portfolio-e3og.onrender.com/
+
+💼 LinkedIn: https://www.linkedin.com/in/jagriti-aswal-98a614330/
+💻 LeetCode: https://leetcode.com/u/jagriti_aswal/
+
+🚀 Building backend systems, full-stack applications, and ML projects.
 
 <!--
 **jagriti-aswal/jagriti-aswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
